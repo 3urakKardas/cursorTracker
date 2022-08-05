@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1658261474 source:c:\users\burak\documents\c++ projects\cursortracker\main.cpp
+	"manager/manager.h"
+
+1657481355 c:\users\burak\documents\c++ projects\cursortracker\manager\managerdeclarations.h
+	"../tools/tools.h"
+
+1657479993 c:\users\burak\documents\c++ projects\cursortracker\manager\managerdefinitions.h
+	"managerDeclarations.h"
+
+1659695211 c:\users\burak\documents\c++ projects\cursortracker\tools\tools.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<thread>
+	<unordered_map>
+	<math.h>
+	<fstream>
+	<SFML/Graphics.hpp>
+
+1659701025 source:c:\users\burak\documents\c++ projects\cursortracker\graphics\graphics.cpp
+	"graphics.h"
+
+1657481421 source:c:\users\burak\documents\c++ projects\cursortracker\manager\managerdefinitions.cpp
+	"managerDeclarations.h"
+
+1659178575 c:\users\burak\documents\c++ projects\cursortracker\manager\manager.h
+	"../graphics/graphics.h"
+
+1659695704 source:c:\users\burak\documents\c++ projects\cursortracker\manager\manager.cpp
+	"manager.h"
+
+1657481953 source:c:\users\burak\documents\c++ projects\cursortracker\tools.cpp
+	"tools/tools.h"
+
+1659699120 c:\users\burak\documents\c++ projects\cursortracker\graphics\graphics.h
+	"../tools/tools.h"
+
+1659695211 source:c:\users\burak\documents\c++ projects\cursortracker\tools\tools.cpp
+	"../tools/tools.h"
+
+1657880679 c:\users\burak\documents\c++ projects\cursortracker\sfmlutilities\sfmlutilities.h
+	"../tools/tools.h"
+
+1657880383 source:c:\users\burak\documents\c++ projects\cursortracker\sfmlutilities\sfmlutilities.cpp
+	"sfmlUtilities.h"
+
+1659618527 source:c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\graphics\graphics.cpp
+	"graphics.h"
+
+1659616955 c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\graphics\graphics.h
+	"../tools/tools.h"
+
+1657881789 c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\sfmlutilities\sfmlutilities.h
+	"../tools/tools.h"
+
+1659605343 c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\tools\tools.h
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<thread>
+	<unordered_map>
+	<math.h>
+	<fstream>
+	<SFML/Graphics.hpp>
+
+1658261474 source:c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\main.cpp
+	"manager/manager.h"
+
+1659178575 c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\manager\manager.h
+	"../graphics/graphics.h"
+
+1659613801 source:c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\manager\manager.cpp
+	"manager.h"
+
+1657880383 source:c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\sfmlutilities\sfmlutilities.cpp
+	"sfmlUtilities.h"
+
+1659618964 source:c:\users\burak\desktop\python\yeni klasör (3)\cursortracker\cursortracker\tools\tools.cpp
+	"../tools/tools.h"
+
