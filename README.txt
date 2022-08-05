@@ -22,8 +22,8 @@ viable for a full confortable use.
 Is this program efficient?
 
 Absolutely not ,but it isn't a far call either ,instead of creating an image we sould have created an mp4 file,
-havsince it's more complicated extention it is way harder to design its buffer ,after which we could have used a simple media player library
-forfor the visualization of the files.
+since it has a more complicated extention it is way harder to design it's buffer ,
+after which we could have used a simple media player library for the visualization of the files.
 
 Who did this?
 
